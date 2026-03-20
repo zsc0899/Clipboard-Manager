@@ -44,9 +44,6 @@ Use the action buttons on each record:
 Advanced Actions
 Search: Type in the search box to filter records by keyword (real-time filtering)
 Clear All: Click "Clear All Records" (bottom-left) to delete all history (irreversible)
-Activate Pro: Click "Activate Pro" in the interface to enter your activation code:
-Valid Pro activation codes: CM-PRO-2026-001, CM-PRO-2026-002, CM-PRO-2026-003 (test codes)
-Buy Pro Activation Code (replace with your purchase link)
 📸 Screenshots
 <img width="400" height="474" alt="image" src="https://github.com/user-attachments/assets/d3a9586d-66d3-4f12-8b67-538d03c50206" />
 
@@ -75,10 +72,9 @@ Collect personal information
 Track your browsing activity
 Share data with third parties
 Send analytics or usage data
-Full privacy policy: https://your-website.com/privacy-policy
 🛠️ Development & Contribution
 If you want to modify or contribute to the extension:
-Clone this repository: git clone https://github.com/your-username/your-repo-name.git
+Clone this repository: git clone https://github.com/zsc0899/Clipboard-Manager
 Install dependencies: npm install
 Build the extension: npm run build
 Test with npm run dev (loads unpacked extension automatically)
@@ -92,21 +88,9 @@ A: Yes! The extension works on all Chromium-based browsers - follow the same ins
 Q: How do I update the extension?
 A: Download the latest dist.zip, delete the old extension from chrome://extensions/, and reinstall using the new files.
 📞 Support & Feedback
-Report bugs/request features: GitHub Issues
-Contact us: your-email@example.com
+Report bugs/request features: 
+Contact us: gianfrancheschi@gmail.com
 Follow for updates: Twitter/GitHub
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ⭐ If you find this extension useful, please star the repository to support development!We're constantly adding new features - check back for updates.
-Replace These Placeholders Before Publishing
-your-username/your-repo-name - Replace with your actual GitHub username/repository name
-Screenshot URLs - Add your actual screenshot links (upload to GitHub repo first)
-Purchase link - Replace with your Pro activation code purchase URL
-Contact email - Add your actual contact information
-Privacy policy URL - Add your privacy policy link (can be a GitHub page or external site)
-CRX file link (if applicable) - Add direct download link for CRX file
-Optional Additions
-Add a "Changelog" section to track version updates
-Include a "Roadmap" section for upcoming features
-Add translation notes (if supporting multiple languages)
-Include a video tutorial link (hosted on YouTube/Vimeo)
